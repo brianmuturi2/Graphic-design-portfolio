@@ -1,0 +1,381 @@
+<div class="section secondary-section " id="portfolio">
+    <div class="triangle"></div>
+    <div class="container">
+        <div class=" title">
+            <h1>Have You Seen My Works?</h1>
+            <p>Below are some of the projects i have done.</p>
+        </div>
+        <ul class="nav nav-pills">
+            <li class="filter" data-filter="all">
+                <a href="#noAction">All</a>
+            </li>
+            <li class="filter" data-filter="web">
+                <a href="#noAction">Graphics</a>
+            </li>
+            <li class="filter" data-filter="photo">
+                <a href="#noAction">Web</a>
+            </li>
+            <li class="filter" data-filter="identity">
+                <a href="#noAction">Design</a>
+            </li>
+            <li class="filter" data-filter="identity">
+                <a href="">Go to all projects</a>
+            </li>
+        </ul>
+        <!-- Start details for portfolio project 1 -->
+        <div id="single-project">
+            <div id="slidingDiv" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio01.png') }}" alt="project 1" />
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Poster for a client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>AaRaTa ARTS</div>
+                            <div>
+                                <span>Date</span>May 2017</div>
+                            <div>
+                                <span>Skills</span>Adobe photoshop, illustrator</div>
+                            <div>
+                                <span>Link</span>0702 018 529</div>
+                        </div>
+                        <p>An awesome poster for an awesome comedy play!</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 1 -->
+            <!-- Start details for portfolio project 2 -->
+            <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio02.png') }}" alt="project 2">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>My website</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Me</div>
+                            <div>
+                                <span>Date</span>January 2017</div>
+                            <div>
+                                <span>Skills</span>HTML, CSS, JavaScript, PHP, Adobe photoshop</div>
+                            <div>
+                                <span>Link</span>http://mydomain.com</div>
+                        </div>
+                        <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 2 -->
+            <!-- Start details for portfolio project 3 -->
+            <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio03.png') }}" alt="project 3">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Logo for a client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Dj Tremor</div>
+                            <div>
+                                <span>Date</span>May 2017</div>
+                            <div>
+                                <span>Skills</span>Adobe illustrator</div>
+                            <div>
+                                <span>Link</span>http://www.Djtremor.co.ke</div>
+                        </div>
+                        <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 3 -->
+            <!-- Start details for portfolio project 4 -->
+            <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio04.png') }}" alt="project 4">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Business Card for a Client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Dj Alekkings</div>
+                            <div>
+                                <span>Date</span>May 2017</div>
+                            <div>
+                                <span>Skills</span>Adobe photoshop, illustrator</div>
+                            <div>
+                                <span>Link</span>http://www.djalekkings.co.ke</div>
+                        </div>
+                        <p>The rising designer in meru.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 4 -->
+            <!-- Start details for portfolio project 5 -->
+            <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio05.png') }}" alt="project 5">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Website for a Partner</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Bonface Thaa</div>
+                            <div>
+                                <span>Date</span>September 2016</div>
+                            <div>
+                                <span>Skills</span>HTML, CSS, JavaScript, Adobe photoshop, Django</div>
+                            <div>
+                                <span>Link</span>http://www.iambonfacethaa.000webhostapp.com</div>
+                        </div>
+                        <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 5 -->
+            <!-- Start details for portfolio project 6 -->
+            <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio06.png') }}" alt="project 6">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Wallpaper for a client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>N/A</div>
+                            <div>
+                                <span>Date</span>July 2016</div>
+                            <div>
+                                <span>Skills</span>Adobe photoshop</div>
+                            <div>
+                                <span>Link</span>N/A</div>
+                        </div>
+                        <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 6 -->
+            <!-- Start details for portfolio project 7 -->
+            <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio07.png') }}" alt="project 7">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Flyer for a client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Washington Murimi</div>
+                            <div>
+                                <span>Date</span>May 2017</div>
+                            <div>
+                                <span>Skills</span>Adobe photoshop, indesign</div>
+                            <div>
+                                <span>Link</span>0727 663 350</div>
+                        </div>
+                        <p>A professional poster for marketing.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 7 -->
+            <!-- Start details for portfolio project 8 -->
+            <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio08.png') }}" alt="project 8">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>Website for Some Client</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Geosolution</div>
+                            <div>
+                                <span>Date</span>July 2016</div>
+                            <div>
+                                <span>Skills</span>HTML, CSS, JavaScript, Adobe photoshop, Laravel</div>
+                            <div>
+                                <span>Link</span>http://www.geosolutionsltd.co.ke</div>
+                        </div>
+                        <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 8 -->
+            <!-- Start details for portfolio project 9 -->
+            <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
+                <div class="span6">
+                    <img src="{{ asset('assets/images/Portfolio09.png') }}" alt="project 9">
+                </div>
+                <div class="span6">
+                    <div class="project-description">
+                        <div class="project-title clearfix">
+                            <h3>My brochure</h3>
+                            <span class="show_hide close">
+                                <i class="icon-cancel"></i>
+                            </span>
+                        </div>
+                        <div class="project-info">
+                            <div>
+                                <span>Client</span>Me</div>
+                            <div>
+                                <span>Date</span>2017</div>
+                            <div>
+                                <span>Skills</span>Adobe photoshop & illustrator</div>
+                            <div>
+                                <span>Link</span>N/A</div>
+                        </div>
+                        <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- End details for portfolio project 9 -->
+            <ul id="portfolio-grid" class="thumbnails row">
+                <li class="span4 mix web">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio01.png') }}" alt="project 1">
+                        <a href="#single-project" class="more show_hide" rel="#slidingDiv">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Brand design</h3>
+                        <p>Flyer</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix photo">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio02.png') }}" alt="project 2">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Web development</h3>
+                        <p>E-Business</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix identity">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio03.png') }}" alt="project 3">
+                        <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Brand design</h3>
+                        <p>Logo</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix web">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio04.png') }}" alt="project 4">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Brand design</h3>
+                        <p>Business card</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix photo">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio05.png') }}" alt="project 5">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Web development</h3>
+                        <p>E-Business</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix identity">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio06.png') }}" alt="project 6">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Photomanipulation</h3>
+                        <p>Wallpaper</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix web">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio07.png') }}" alt="project 7" />
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Multimedia design</h3>
+                        <p>Flyer</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix photo">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio08.png') }}" alt="project 8">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Web development</h3>
+                        <p>E-Business</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+                <li class="span4 mix identity">
+                    <div class="thumbnail">
+                        <img src="{{ asset('assets/images/Portfolio09.png') }}" alt="project 9">
+                        <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
+                            <i class="icon-plus"></i>
+                        </a>
+                        <h3>Brand design</h3>
+                        <p>Brochure</p>
+                        <div class="mask"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
