@@ -2,7 +2,6 @@
   "name": "Graphic design portfolio website",
   "version": "1.0.0",
   "description": "A portfolio for graphic design products",
-  "private": true,
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
