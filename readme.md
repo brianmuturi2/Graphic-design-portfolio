@@ -133,7 +133,7 @@ This is an example of how to list things you need to use the software and how to
 
 The following are the features implemented in the application.
 
-* Image gallery
+* Landing page with image gallery
 * Authentication & authorization
 * Admin dashboard
 * Mysql database for crud operations
