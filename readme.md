@@ -31,10 +31,10 @@
   </a>
 -->
 
-<h3 align="center">Real estate website template</h3>
+<h3 align="center">Graphic design portfolio</h3>
 
   <p align="center">
-    A landing page template for website offering real estates.
+    A website for showcasing graphic design products.
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
@@ -81,7 +81,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A landing page for realestate website
+A website for showcasing graphic design products with admin dashboard.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,6 +91,9 @@ A landing page for realestate website
 
 * [HTML](https://www.w3schools.com/html/default.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
+* [Bootstrap](https://getbootstrap.com/)
+* [PHP](https://www.php.net/)
+* [Laravel](https://laravel.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brianmuturi2/Real-estate-template.git
+   git clone https://github.com/brianmuturi2/Graphic-design-portfolio.git
    ```
 2. Install NPM packages
    ```sh
@@ -120,7 +123,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Compile sass
    ```sh
-   npm run compile:sass
+   npm run development
    ```
 4. Run index.html   
 
@@ -131,11 +134,10 @@ This is an example of how to list things you need to use the software and how to
 
 The following are the features implemented in the application.
 
-* Sass variables & imports
-* Media queries
-* Scss
-* CSS Grid layout
-* Sprite svg image
+* Image gallery
+* Authentication & authorization
+* Admin dashboard
+* Mysql database for crud operations
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,7 +155,7 @@ Brian Muturi - iambmn254@gmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [jonas]
+* [dev marketer]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,4 +176,4 @@ Brian Muturi - iambmn254@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/brian-muturi2/
 [product-screenshot]: images/screenshot.png
-[jonas]: https://codingheroes.io/
+[dev marketer]: https://devmarketer.io/
